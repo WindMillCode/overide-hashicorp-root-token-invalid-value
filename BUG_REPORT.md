@@ -4,6 +4,26 @@
 ## Links to issue
 *[Github](https://github.com/WindMillCode/overide-hashicorp-root-token-invalid-value)
 
+## Addtl links
+Current Session
+
+   https://app.slack.com/client/T029RQSE6/C2B4L99RS/thread/C029RQSEE-1686429799.955169
+   https://www.facebook.com/search/groups/?q=golang&sde=AbotKqEx6VFO7Xg9wiFDgE3hDSnw1teizHLB49vZpXF3bLbxyZ0OOuvrfrGEGCpzofDakrn8opGG9ML5UM4eRoBs
+   https://www.facebook.com/groups/265634821388311/
+   https://www.facebook.com/groups/1693451300902571/
+   https://www.facebook.com/groups/1622817837978047/
+   https://www.facebook.com/groups/golanggonuts/
+   https://www.facebook.com/groups/learnGolang/
+   https://www.facebook.com/groups/422428585164623/
+   https://www.facebook.com/groups/1908750736042854/
+   https://www.facebook.com/groups/mygolang/
+   https://www.facebook.com/groups/586803232936791/
+   https://www.facebook.com/groups/139882946682393/
+   https://www.reddit.com/r/golang/submit
+   https://stackoverflow.com/questions/76466880/dlv-debug-issue-to-go-application-running-in-docker-container
+   https://stackoverflow.com/questions/74740177/dlv-debug-error-could-not-launch-process-fork-exec-demo-function-not-impleme
+
+   chrome://newtab/
 ### Problem
 Greetings,
 

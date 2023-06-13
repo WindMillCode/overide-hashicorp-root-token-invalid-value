@@ -5,8 +5,15 @@
 *[Github](https://github.com/WindMillCode/overide-hashicorp-root-token-invalid-value)
 
 ### Problem
-Greetings, I see that you are hashicorp certified I have issue where I am having trouble setting the root token id to a previous, value this was for an important hackathon can you please help
+Greetings,
 
+I am currently facing an issue related to setting the root token ID to a previous value in the HashiCorp Vault Go code. I have tried debugging the application using dlv debug within a Docker container. However, when attempting to run the application on my Windows machine, it hangs. Although the application eventually runs on the Docker machine, I encountered an issue with the debugger not functioning properly when setting breakpoints.
+
+To provide a better understanding of the problem, I have attached a minimal reproduction of the issue on GitHub. You can find it at the following link: GitHub - WindMillCode/overide-hashicorp-root-token-invalid-value.
+
+I kindly request the to help me resolve this problem as quickly as possible
+
+Thank you in advance.
 
 ## Current Behavior
 When I run the application via start debugging and I set breakpoints the debugging skips over the breakpoints not allowing me to explore the code. My use case I am working with the [hashicorp vault code](https://github.com/hashicorp/vault) trying to put break points ultimately to modify the code to accept any dev token I give it (right now its rejecting using its own tokens). I am using this course for reference https://app.pluralsight.com/library/courses/go-debugging/table-of-contents.
@@ -44,6 +51,7 @@ install docker and  go1.20 on the computer and
 
 1. Go to project root in terminal
 2. Copy paste and run commands in terminal minimal_repro\commands.txt
+3. set a breakpoint on  line 15 in minimal_repro\main.go
 3. Click [Top left of vscode > Run > Start debugging]
 4. access localhost:5001 in the browser if you access it this means the debugger did not work
 

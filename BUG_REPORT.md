@@ -56,11 +56,6 @@ When I run the application via start debugging and I set breakpoints the debuggi
 stop at the breakpoint and I should get connection refesued if I try to open the application in the browser
 
 
-
-
-
-
-
 ## Possible Solution
 * does the go in the docker and the go in my local have to be the same verison I feel like it defeats the point
 * I am getting in go.mod

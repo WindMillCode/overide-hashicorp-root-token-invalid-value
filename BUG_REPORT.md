@@ -52,8 +52,8 @@ install docker and  go1.20 on the computer and
 1. Go to project root in terminal
 2. Copy paste and run commands in terminal minimal_repro\commands.txt
 3. set a breakpoint on  line 15 in minimal_repro\main.go
-3. Click [Top left of vscode > Run > Start debugging]
-4. access localhost:5001 in the browser if you access it this means the debugger did not work
+4. Click [Top left of vscode > Run > Start debugging]
+5. access localhost:5001 in the browser if you access it this means the debugger did not work
 
 ## Environment
 * Local machine

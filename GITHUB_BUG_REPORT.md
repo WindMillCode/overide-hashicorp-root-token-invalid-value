@@ -3,8 +3,8 @@ Please answer the following before submitting your issue:
 Note: Please include any substantial examples (debug session output,
 stacktraces, etc) as linked gists.
 
-[gist for debug session output](https://gist.github.com/windmillcode0/40aaa2c0c3effb92084019c55c4e5cf3
-
+[gist for debug session output](https://gist.github.com/windmillcode0/40aaa2c0c3effb92084019c55c4e5cf3)
+[Minimal repro](https://github.com/WindMillCode/overide-hashicorp-root-token-invalid-value)
 If this is about source listing not showing up (or breakpoints not being
 accepted) while running in a container please read our
 [FAQ](https://github.com/go-delve/delve/blob/master/Documentation/faq.md#substpath)

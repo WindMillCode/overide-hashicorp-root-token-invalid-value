@@ -1,8 +1,10 @@
-# [TITLE HERE]
+#
+
 
 ## Links to issue
-*[Github]()
-###
+*[Github](https://github.com/WindMillCode/overide-hashicorp-root-token-invalid-value)
+
+### Problem
 Greetings, I see that you are hashicorp certified I have issue where I am having trouble setting the root token id to a previous, value this was for an important hackathon can you please help
 
 

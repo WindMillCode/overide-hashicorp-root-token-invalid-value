@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+        {
+      "label": "hashicorp-secrets: init container",
+      "type": "shell",
+      "command": ".\\minimal_repro\\commands.ps1",
+      "group": "none",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+  ]
+}

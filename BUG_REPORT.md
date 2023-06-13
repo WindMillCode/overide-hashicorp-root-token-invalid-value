@@ -49,6 +49,9 @@ When I run the application via start debugging and I set breakpoints the debuggi
 * and I can access the application as its has gotten to http.ListenAndServe
 ![1686669631486](image/BUG_REPORT/1686669631486.png)
 
+* according to this [link](https://github.com/go-delve/delve/blob/master/Documentation/faq.md#substpath) I can the content of main.go
+![1686680350276](image/BUG_REPORT/1686680350276.png)
+
 ## Expected Behavior
 stop at the breakpoint and I should get connection refesued if I try to open the application in the browser
 
